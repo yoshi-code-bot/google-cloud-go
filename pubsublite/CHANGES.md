@@ -1,5 +1,12 @@
 # Changes
 
+## [0.8.0](https://www.github.com/googleapis/google-cloud-go/compare/v0.7.0...v0.8.0) (2021-03-12)
+
+
+### Features
+
+* **pubsublite:** add skip_backlog field to allow subscriptions to be created at HEAD ([18c88c4](https://www.github.com/googleapis/google-cloud-go/commit/18c88c437bd1741eaf5bf5911b9da6f6ea7cd75d))
+
 ## [0.7.0](https://www.github.com/googleapis/google-cloud-go/compare/v0.6.0...v0.7.0) (2021-02-18)
 
 The status of this library is now **BETA**.
