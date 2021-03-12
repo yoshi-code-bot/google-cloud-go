@@ -1,5 +1,12 @@
 # Changes
 
+## [1.16.0](https://www.github.com/googleapis/google-cloud-go/compare/v1.15.0...v1.16.0) (2021-03-12)
+
+
+### Features
+
+* **bigquery:** support type alias names for numeric/bignumeric schemas. ([#3760](https://www.github.com/googleapis/google-cloud-go/issues/3760)) ([2ee6bf4](https://www.github.com/googleapis/google-cloud-go/commit/2ee6bf451524fc1f9735634320a55ca0b07d3d8b))
+
 ## v1.16.0
 
 - Updates to various dependencies.
